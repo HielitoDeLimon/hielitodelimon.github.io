@@ -4,28 +4,28 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://www.hielitodelimon.com/</loc>
-<lastmod>2018-07-28T19:27:28-00:00</lastmod>
+<loc>https://hielitodelimon.com/</loc>
+<lastmod>2019-08-14T14:34:20-00:00</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.hielitodelimon.com/articulos/nevada-de-1997/</loc>
+<loc>https://hielitodelimon.com/articulos/nevada-de-1997/</loc>
 <lastmod>2007-12-12T18:30:00-06:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 
 <url>
-<loc>http://www.hielitodelimon.com/category/articulos.html</loc>
+<loc>https://hielitodelimon.com/category/articulos.html</loc>
 <lastmod>2007-12-12T18:30:00-06:37</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://www.hielitodelimon.com/tag/vida-cotidiana.html</loc>
+<loc>https://hielitodelimon.com/tag/vida-cotidiana.html</loc>
 <lastmod>2007-12-12T18:30:00-06:37</lastmod>
 <changefreq>hourly</changefreq>
 <priority>0.5</priority>
